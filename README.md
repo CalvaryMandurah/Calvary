@@ -12,7 +12,7 @@ Calvary Youth Services provides crisis accommodation for 15-25 year old's who ar
 <div class="gmap_canvas">
     <iframe width="50%" height="40%" id="gmap_canvas" src="https://maps.google.com/maps?q=40%20Sutton%20Street,%20Mandurah%20W.A.%206210&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
     <br>
-    <style>.gmap_canvas {overflow:hidden;background:none!important;height:50%;width:40;}</style>
+    <style>.gmap_canvas {overflow:hidden;background:none!important;}</style>
 </div>
 
 #### Fill In The Form or Call 08 9581 1741
