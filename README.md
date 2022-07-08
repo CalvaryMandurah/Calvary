@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 ## Calvary Youth Services Mandurah
 
 ### A New Beginning
@@ -29,10 +31,10 @@ Then email to coordinator@calvaryyouth.com.au
 
 ### About Us
 
-#### CALVARY Vision Statement 
+#### Calvary Vision Statement 
 Young people in crisis achieve growth in confidence, opportunity and purpose for a successful future.
 
-#### CALVARY Vision Statement 
+#### Calvary Vision Statement 
 Calvary is a Christian organisation, committed to providing safe, secure and supported accommodation to young people (between the ages of 15 and 25) experiencing, or at risk of homelessness. Our approach is holistic, inclusive, strengths based and future focused, empowering individuals to maximise their full potential to achieve healthy, sustainable life choices in their journey to independence.
 
 #### Our Core Values
@@ -69,78 +71,78 @@ The pathway ultimately leads towards the sun and a horizon of hope, possibility 
 THIS IS YOUR LIFE  – We will not override your decisions but assist you, as and when it is necessary to access the varying options that may be available to assist you in your situation. Our aim is to create an environment which will help empower you to take responsibility for yourself and to support you to develop skills and a lifestyle to cope and succeed in the wider community.
 
 ### Useful Contacts
-> Crisis Care
-> Tel: (08) 9223 1111
-> 1800 199 008
-> 24 Hours
+> Crisis Care  
+> Tel: (08) 9223 1111  
+> 1800 199 008  
+> 24 Hours  
 
-> Homeless Hot Line
-> Tel: (08) 9223 1111
-> 1800 065 892
-> 24 Hours
+> Homeless Hot Line  
+> Tel: (08) 9223 1111  
+> 1800 065 892  
+> 24 Hours  
 
-> Department of Child Protection and Family Support
-> Tel: 13 62 40
-> Tel: (08) 9535 6688
-> Centrelink
-> Tuckey Street, Mandurah 6210
+> Department of Child Protection and Family Support  
+> Tel: 13 62 40  
+> Tel: (08) 9535 6688  
+> Centrelink  
+> Tuckey Street, Mandurah 6210  
 
-> [Peel Youth Services] (www.peelyouthservices.com.au)
-> Tel: (08) 9581 3365
-> Lot 41 (432) Lakes Road East
-> Greenfields 6210
+> [Peel Youth Services] (www.peelyouthservices.com.au)  
+> Tel: (08) 9581 3365  
+> Lot 41 (432) Lakes Road East  
+> Greenfields 6210  
 
-> [Peel Youth Medical Services](www.gpdownsouth.com.au)
-> Tel: (08) 9583 5435
-> Billy Dower Youth Centre, 41 Dower Street
-> Mandurah 6210
+> [Peel Youth Medical Services](www.gpdownsouth.com.au)  
+> Tel: (08) 9583 5435  
+> Billy Dower Youth Centre, 41 Dower Street  
+> Mandurah 6210  
 
-> [West Aus Crisis Care](www.westauscrisis.org.au)
-> Tel: (08) 9582 9920
-> Suite 3 Lotteries House, 7 Anzac Place
-> Mandurah 6210
+> [West Aus Crisis Care](www.westauscrisis.org.au)  
+> Tel: (08) 9582 9920  
+> Suite 3 Lotteries House, 7 Anzac Place  
+> Mandurah 6210  
 
-> [Passages Resource Centre](www.passagesresourcecentre.com)
-> Tel: (08) 9583 5160
-> 20 Davey St
-> Mandurah 6210
+> [Passages Resource Centre](www.passagesresourcecentre.com)  
+> Tel: (08) 9583 5160  
+> 20 Davey St  
+> Mandurah 6210  
 
-> [Palmerston](www.palmerston.org)
-> Tel: (08) 9581 4010
-> 22 Tuckey St
-> Mandurah 6210
-> Opening times: Mon- Fri; 8.30am – 5.00pm
+> [Palmerston](www.palmerston.org)  
+> Tel: (08) 9581 4010  
+> 22 Tuckey St  
+> Mandurah 6210  
+> Opening times: Mon- Fri; 8.30am – 5.00pm  
 
-> [Peel Community Kitchen](www.peelcommunitykitchen.com.au)
-> Tel: 0420 293 538
-> 26 Sutton Street, Corner of Sutton and Gibson Street
-> Mandurah 6210
+> [Peel Community Kitchen](www.peelcommunitykitchen.com.au)  
+> Tel: 0420 293 538  
+> 26 Sutton Street, Corner of Sutton and Gibson Street  
+> Mandurah 6210  
 
-> [Foodbank](www.foodbankwa.org.au)
-> Tel: (08) 9581 9200
-> Unit 1 / 68 Reserve Drive
-> Mandurah 6210
-> Opening times: Mon- Fri
+> [Foodbank](www.foodbankwa.org.au)  
+> Tel: (08) 9581 9200  
+> Unit 1 / 68 Reserve Drive  
+> Mandurah 6210  
+> Opening times: Mon- Fri  
 
-> [St Vinnies](www.vinnies.com.org)
-> Tel: (08) 9535 9035
-> Emergency Relief; 23 Davey St
-> Mandurah 6210
+> [St Vinnies](www.vinnies.com.org)  
+> Tel: (08) 9535 9035  
+> Emergency Relief; 23 Davey St  
+> Mandurah 6210  
 
-> Homeless Advisory Service
-> Tel: 1800 065 892
+> Homeless Advisory Service  
+> Tel: 1800 065 892  
 
-> Halo Team Inc.
-> Transitional Accomodation
-> Tel: 0433 582 707
+> Halo Team Inc.  
+> Transitional Accomodation  
+> Tel: 0433 582 707  
 
-> Child Protection and Family Support
-> Tel: (08) 9583 6688
-> Cnr Sutton and Tuckey Street
-> Mandurah 6210
+> Child Protection and Family Support  
+> Tel: (08) 9583 6688  
+> Cnr Sutton and Tuckey Street  
+> Mandurah 6210  
 
-> Entry Point
-> 1800 124 684
+> Entry Point  
+> 1800 124 684  
 
 ### Thanks
 Calvary would like to thank the following organisations for their ongoing support through programs:
