@@ -1,4 +1,6 @@
 ## Calvary Youth Services Mandurah
+<link rel="stylesheet" href="style.css">
+
 ### A New Beginning
 
 Calvary Youth Services provides crisis accommodation for 15-25 year old's who are homeless or at risk of homelessness. We are open 24 hours a day, 7 days per week.
