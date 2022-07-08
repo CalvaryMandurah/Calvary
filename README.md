@@ -11,7 +11,7 @@ Calvary Youth Services provides crisis accommodation for 15-25 year old's who ar
 * Email: coordinator@calvaryyouth.com.au
 * Mobile: 0419 909 178
 * 40 Sutton Street, Mandurah W.A. 6210 
-<div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=40%20Sutton%20Street,%20Mandurah%20W.A.%206210&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+<iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=40%20Sutton%20Street,%20Mandurah%20W.A.%206210&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 
 #### Fill In The Form or Call 08 9581 1741
 <form method="post" action="//formspree.io/coordinator@calvaryyouth.com.au">
