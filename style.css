@@ -6,6 +6,10 @@ h1{
     display: none;
 }
 
-blockquote {
+p {
     color:black;
+}
+
+.my-5{
+    margin-top:0;
 }
