@@ -12,19 +12,16 @@ Email: coordinator@calvaryyouth.com.au
 
 Mobile: 0419 909 178
 
-40 Sutton Street, Mandurah W.A. 6210 <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=40%20Sutton%20Street,%20Mandurah%20W.A.%206210&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://fmovies-online.net"></a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><a href="https://www.embedgooglemap.net">embed google maps on website</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div></div>
+40 Sutton Street, Mandurah W.A. 6210 
+<div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=40%20Sutton%20Street,%20Mandurah%20W.A.%206210&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://fmovies-online.net"></a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><a href="https://www.embedgooglemap.net">embed google maps on website</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div>
 
 <form method="post" action="//formspree.io/coordinator@calvaryyouth.com.au">
- <div class="row uniform">
-  <div class="6u 12u$(xsmall)"><input type="text" name="name" id="name" placeholder="Name"></div>
-  <div class="6u$ 12u$(xsmall)"><input type="email" name="email" id="email" placeholder="Email"></div>
-  <div class="12u$"><textarea name="message" id="message" placeholder="Message" rows="4"></textarea></div>
-  <div class="12u$">
-   <ul class="actions">
-    <li><input type="submit" value="Send" class="special"></li>
-   </ul>
-  </div>
- </div>
+  <input type="text" name="name" id="name" placeholder="Name">
+  <input type="email" name="email" id="email" placeholder="Email">
+  <textarea name="message" id="message" placeholder="Message" rows="4"></textarea>
+  <ul class="actions">
+   <li><input type="submit" value="Send" class="special"></li>
+  </ul>
 </form>
      
 [Download Referral Form](https://calvary-mandurah.org/images/calvary-referral-form.doc)
@@ -63,100 +60,95 @@ The pathway ultimately leads towards the sun and a horizon of hope, possibility 
 * How long is the assessment Period? – Initial assessments can be done in person and over the phone. Once accommodated in the service the assessment period is based on individual needs. Due to the various needs of each individual we aim to have staff members who are flexible and able to adjust to each person’s needs.
 * How long can i stay? – This is crisis accommodation only. Residents may stay for up to 3 months maximum depending on their commitment to working towards overcoming their specific area/s of crisis.
 * How can we help? – We are a service which is committed to assisting young people move from crisis situations into a lifestyle free from supporting agencies. We can help by offering a place of safe and secure accommodation. A place where you can, with the support of youth workers and other professionals, begin to rectify the problems that sees you placed in this situation. We also offer recreation and other programs to bring balance to Case Management Program.
-* What is our Case Management Program? – We provide an intensive case management program that we encourage you to take part in to work out what is the best course of action for you.
-* What is our Transitional Housing Program? – For those who successfully address their crisis issues but still need a certain level of support and are unable to secure independent accommodation, we may be able to offer a place in the Transitional Housing Program.
-* What is our External Support Program? – Our agency also offers some external support which enables a young person to access our service for support but continue on their own journey whilst still maintaining independent accommodation. This may be support, mentoring, referral to other agencies, use of telephone or internet.
+
+### Our Programs
+* Case Management Program – We provide an intensive case management program that we encourage you to take part in to work out what is the best course of action for you.
+* Transitional Housing Program – For those who successfully address their crisis issues but still need a certain level of support and are unable to secure independent accommodation, we may be able to offer a place in the Transitional Housing Program.
+* External Support Program – Our agency also offers some external support which enables a young person to access our service for support but continue on their own journey whilst still maintaining independent accommodation. This may be support, mentoring, referral to other agencies, use of telephone or internet.
 
 THIS IS YOUR LIFE  – We will not override your decisions but assist you, as and when it is necessary to access the varying options that may be available to assist you in your situation. Our aim is to create an environment which will help empower you to take responsibility for yourself and to support you to develop skills and a lifestyle to cope and succeed in the wider community.
 
 ### Useful Contacts
 > Crisis Care
-Tel: (08) 9223 1111
-1800 199 008
-24 Hours
+> Tel: (08) 9223 1111
+> 1800 199 008
+> 24 Hours
 
 > Homeless Hot Line
-Tel: (08) 9223 1111
-1800 065 892
-24 Hours
+> Tel: (08) 9223 1111
+> 1800 065 892
+> 24 Hours
 
 > Department of Child Protection and Family Support
-Tel: 13 62 40
-Tel: (08) 9535 6688
-Centrelink
-Tuckey Street, Mandurah 6210
+> Tel: 13 62 40
+> Tel: (08) 9535 6688
+> Centrelink
+> Tuckey Street, Mandurah 6210
 
-> Peel Youth Services
-Web: www.peelyouthservices.com.au
-Tel: (08) 9581 3365
-Lot 41 (432) Lakes Road East
-Greenfields 6210
+> [Peel Youth Services] (www.peelyouthservices.com.au)
+> Tel: (08) 9581 3365
+> Lot 41 (432) Lakes Road East
+> Greenfields 6210
 
-> Peel Youth Medical Services
-Web: www.gpdownsouth.com.au
-Tel: (08) 9583 5435
-Billy Dower Youth Centre, 41 Dower Street
-Mandurah 6210
+> [Peel Youth Medical Services](www.gpdownsouth.com.au)
+> Tel: (08) 9583 5435
+> Billy Dower Youth Centre, 41 Dower Street
+> Mandurah 6210
 
-> West Aus Crisis Care
-Web: www.westauscrisis.org.au
-Tel: (08) 9582 9920
-Suite 3 Lotteries House, 7 Anzac Place
-Mandurah 6210
+> [West Aus Crisis Care](www.westauscrisis.org.au)
+> Tel: (08) 9582 9920
+> Suite 3 Lotteries House, 7 Anzac Place
+> Mandurah 6210
 
-> Passages Resource Centre
-Web: www.passagesresourcecentre.com
-Tel: (08) 9583 5160
-20 Davey St
-Mandurah 6210
+> [Passages Resource Centre](www.passagesresourcecentre.com)
+> Tel: (08) 9583 5160
+> 20 Davey St
+> Mandurah 6210
 
-> Palmerston
-Web: www.palmerston.org
-Tel: (08) 9581 4010
-22 Tuckey St
-Mandurah 6210
-Opening times: Mon- Fri; 8.30am – 5.00pm
+> [Palmerston](www.palmerston.org)
+> Tel: (08) 9581 4010
+> 22 Tuckey St
+> Mandurah 6210
+> Opening times: Mon- Fri; 8.30am – 5.00pm
 
-> Peel Community Kitchen
-Web: www.peelcommunitykitchen.com.au
-Tel: 0420 293 538
-26 Sutton Street, Corner of Sutton and Gibson Street
-Mandurah 6210
+> [Peel Community Kitchen](www.peelcommunitykitchen.com.au)
+> Tel: 0420 293 538
+> 26 Sutton Street, Corner of Sutton and Gibson Street
+> Mandurah 6210
 
-> Foodbank
-Web: www.foodbankwa.org.au
-Tel: (08) 9581 9200
-Unit 1 / 68 Reserve Drive
-Mandurah 6210
-Opening times: Mon- Fri
+> [Foodbank](www.foodbankwa.org.au)
+> Tel: (08) 9581 9200
+> Unit 1 / 68 Reserve Drive
+> Mandurah 6210
+> Opening times: Mon- Fri
 
-> St Vinnies
-Web: www.vinnies.com.org
-Tel: (08) 9535 9035
-Emergency Relief; 23 Davey St
-Mandurah 6210
+> [St Vinnies](www.vinnies.com.org)
+> Tel: (08) 9535 9035
+> Emergency Relief; 23 Davey St
+> Mandurah 6210
 
 > Homeless Advisory Service
-Tel: 1800 065 892
+> Tel: 1800 065 892
 
 > Halo Team Inc.
-Transitional Accomodation
-Tel: 0433 582 707
+> Transitional Accomodation
+> Tel: 0433 582 707
 
 > Child Protection and Family Support
-Tel: (08) 9583 6688
-Cnr Sutton and Tuckey Street
-Mandurah 6210
+> Tel: (08) 9583 6688
+> Cnr Sutton and Tuckey Street
+> Mandurah 6210
 
 > Entry Point
-1800 124 684
+> 1800 124 684
 
 ### Thanks
-Calvary would like to thank the following organisations for their ongoing support through programs such as:
+Calvary would like to thank the following organisations for their ongoing support through programs:
 * City of Mandurah - Community Association Grants
 * Alcoa – PEACH Personnel Employed at Alcoa Charity Help grants
 * Alcoa Volunteers Program
 * Grill’d – Local Matters Program
 * Local members of the community for making personal donations
+
 If you would like to donate to Calvary Youth Services Mandurah Inc. please call the office on 08 95811741 and speak with the Manager
 Once again a big thank you from the Board of Management, staff and residents at Calvary Youth Services.
