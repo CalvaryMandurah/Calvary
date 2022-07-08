@@ -20,7 +20,7 @@ Calvary Youth Services provides crisis accommodation for 15-25 year old's who ar
   </div>
 </div>
 
-#### Fill In The Form or Call 08 9581 1741
+<!-- #### Fill In The Form or Call 08 9581 1741
 <form method="post" action="//formspree.io/coordinator@calvaryyouth.com.au">
   <input type="text" name="name" id="name" placeholder="Name"><br>
   <input type="email" name="email" id="email" placeholder="Email"><br>
@@ -28,7 +28,7 @@ Calvary Youth Services provides crisis accommodation for 15-25 year old's who ar
   <ul class="actions">
    <li><input type="submit" value="Send" class="special"></li>
   </ul>
-</form>
+</form> -->
      
 [Download Referral Form](/assets/referral_form.doc) Then email to coordinator@calvaryyouth.com.au
 
