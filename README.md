@@ -4,30 +4,26 @@
 
 ### A New Beginning
 
-Calvary Youth Services provides crisis accommodation for 15-25 year old's who are homeless or at risk of homelessness. We are open 24 hours a day, 7 days per week.
-We provide a Case Management Program which includes Living Skills development. We have a Transitional Housing Program also with medium term accommodation in the Mandurah area.
+Calvary Youth Services provides crisis accommodation for 15-25 year old's who are homeless or at risk of homelessness. We are open 24 hours a day, 7 days per week. We provide a Case Management Program which includes Living Skills development. We have a Transitional Housing Program also with medium term accommodation in the Mandurah area.
 
 ### Contact Us
-Phone: 08 9581 1741
+* Phone: 08 9581 1741
+* Email: coordinator@calvaryyouth.com.au
+* Mobile: 0419 909 178
+* 40 Sutton Street, Mandurah W.A. 6210 
+<div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=40%20Sutton%20Street,%20Mandurah%20W.A.%206210&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 
-Email: coordinator@calvaryyouth.com.au
-
-Mobile: 0419 909 178
-
-40 Sutton Street, Mandurah W.A. 6210 
-<div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=40%20Sutton%20Street,%20Mandurah%20W.A.%206210&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://fmovies-online.net"></a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><a href="https://www.embedgooglemap.net">embed google maps on website</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div>
-
+#### Fill In The Form or Call 08 9581 1741
 <form method="post" action="//formspree.io/coordinator@calvaryyouth.com.au">
-  <input type="text" name="name" id="name" placeholder="Name">
-  <input type="email" name="email" id="email" placeholder="Email">
-  <textarea name="message" id="message" placeholder="Message" rows="4"></textarea>
+  <input type="text" name="name" id="name" placeholder="Name"><br>
+  <input type="email" name="email" id="email" placeholder="Email"><br>
+  <textarea name="message" id="message" placeholder="Message" rows="4"></textarea><br>
   <ul class="actions">
    <li><input type="submit" value="Send" class="special"></li>
   </ul>
 </form>
      
-[Download Referral Form](https://calvary-mandurah.org/images/calvary-referral-form.doc)
-Then email to coordinator@calvaryyouth.com.au
+[Download Referral Form](/assets/referral_form.doc) Then email to coordinator@calvaryyouth.com.au
 
 ### About Us
 
