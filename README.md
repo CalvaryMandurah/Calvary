@@ -1,8 +1,6 @@
-<link rel="stylesheet" href="style.css">
-
 ## Calvary Youth Services Mandurah
-
 ### A New Beginning
+<link rel="stylesheet" href="style.css"><!-- Don't Touch -->
 
 Calvary Youth Services provides crisis accommodation for 15-25 year old's who are homeless or at risk of homelessness. We are open 24 hours a day, 7 days per week. We provide a Case Management Program which includes Living Skills development. We have a Transitional Housing Program also with medium term accommodation in the Mandurah area.
 
@@ -11,32 +9,20 @@ Calvary Youth Services provides crisis accommodation for 15-25 year old's who ar
 * Email: coordinator@calvaryyouth.com.au
 * Mobile: 0419 909 178
 * 40 Sutton Street, Mandurah W.A. 6210 
-<div class="mapouter">
-    <div class="gmap_canvas">
-        <iframe width="50%" height="40%" id="gmap_canvas" src="https://maps.google.com/maps?q=40%20Sutton%20Street,%20Mandurah%20W.A.%206210&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-        <br>
-        <style>.mapouter {position:relative;text-align:right;height:50%;width:40%;}</style>
-        <style>.gmap_canvas {overflow:hidden;background:none!important;height:50%;width:40;}</style>
-    </div>
+<div class="gmap_canvas">
+    <iframe width="50%" height="40%" id="gmap_canvas" src="https://maps.google.com/maps?q=40%20Sutton%20Street,%20Mandurah%20W.A.%206210&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+    <br>
+    <style>.gmap_canvas {overflow:hidden;background:none!important;height:50%;width:40;}</style>
 </div>
 
-<!-- 
-<form method="post" action="//formspree.io/coordinator@calvaryyouth.com.au">
-  <input type="text" name="name" id="name" placeholder="Name"><br>
-  <input type="email" name="email" id="email" placeholder="Email"><br>
-  <textarea name="message" id="message" placeholder="Message" rows="4"></textarea><br>
-  <ul class="actions">
-   <li><input type="submit" value="Send" class="special"></li>
-  </ul>
-</form> -->
 #### Fill In The Form or Call 08 9581 1741
-
+<!-- Dont touch  -->
 <form method="post" action="//formspree.io/coordinator@calvaryyouth.com.au">
-    <div class="row uniform">
-	    <div class="6u 12u$(xsmall)"><input type="text" name="name" id="name" placeholder="Name"></div>
-		<div class="6u$ 12u$(xsmall)"><input type="email" name="email" id="email" placeholder="Email"></div>
-		<div class="12u$"><textarea name="message" id="message" placeholder="Message" rows="4"></textarea></div>
-		<div class="12u$">
+    <div>
+	    <div><input type="text" name="name" id="name" placeholder="Name"></div>
+		<div><input type="email" name="email" id="email" placeholder="Email"></div>
+		<div><textarea name="message" id="message" placeholder="Message" rows="4"></textarea></div>
+		<div>
 			<ul class="actions">
 				<li><input type="submit" value="Send" class="special"></li>
             </ul>
@@ -168,5 +154,4 @@ Calvary would like to thank the following organisations for their ongoing suppor
 * Grill’d – Local Matters Program
 * Local members of the community for making personal donations
 
-If you would like to donate to Calvary Youth Services Mandurah Inc. please call the office on 08 95811741 and speak with the Manager
-Once again a big thank you from the Board of Management, staff and residents at Calvary Youth Services.
+If you would like to donate to Calvary Youth Services Mandurah Inc. please call the office on 08 95811741 and speak with the Manager. Once again a big thank you from the Board of Management, staff, and residents at Calvary Youth Services.
