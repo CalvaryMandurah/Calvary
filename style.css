@@ -13,3 +13,15 @@ p {
 .my-5{
     margin-top:0;
 }
+
+a {
+    color:blue;
+    text-decoration: underline;
+}
+a:hover{
+    color:rgb(0, 106, 255)
+}
+
+.contact_title{
+    Color: blue;
+}

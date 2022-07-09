@@ -74,7 +74,7 @@ The pathway ultimately leads towards the sun and a horizon of hope, possibility 
 THIS IS YOUR LIFE  – We will not override your decisions but assist you, as and when it is necessary to access the varying options that may be available to assist you in your situation. Our aim is to create an environment which will help empower you to take responsibility for yourself and to support you to develop skills and a lifestyle to cope and succeed in the wider community.
 
 ### Useful Contacts
-> Crisis Care  
+> <span class="contact_title">Crisis Care</span>  
 > Tel: (08) 9223 1111  
 > Tel: 1800 199 008  
 > 24 Hours  
@@ -91,7 +91,7 @@ THIS IS YOUR LIFE  – We will not override your decisions but assist you, as an
 > Sutton St & Tuckey St, Mandurah WA 6210  
 > Mon - Fri; 8:30am - 5pm
 
-> [Peel Youth Services] (www.peelyouthservices.com.au)  
+> [Peel Youth Services](www.peelyouthservices.com.au)  
 > Tel: (08) 9581 3365  
 > Lot 41 (432) Lakes Road East Greenfields 6210  
 > Mon - Fri; 9am - 5pm
