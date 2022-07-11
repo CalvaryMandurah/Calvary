@@ -1,9 +1,10 @@
-## Calvary Youth Services Mandurah
+## Calvary Youth Services Mandurah ![Calvary Logo](/assets/calvary_logo.jpg)
 ### A New Beginning
 <link rel="stylesheet" href="style.css"><!-- Don't Touch this line-->
 
 Calvary Youth Services provides crisis accommodation for 15-25 year old's who are homeless or at risk of homelessness. We are open 24 hours a day, 7 days per week. We provide a Case Management Program which includes Living Skills development. We have a Transitional Housing Program also with medium term accommodation in the Mandurah area.
 
+<div class="flex-container">
 ### Contact Us
 * Tel: 08 9581 1741
 * Mobile: 0419 909 178
@@ -14,6 +15,7 @@ Calvary Youth Services provides crisis accommodation for 15-25 year old's who ar
 <iframe frameborder="0" 
 	src="https://www.google.com/maps/embed/v1/place?q=calvary+youth+services+mandurah&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8">
 </iframe>
+</div>
 <!-- To here -->
 
 <!-- <div class="gmap_canvas">
@@ -26,18 +28,16 @@ Calvary Youth Services provides crisis accommodation for 15-25 year old's who ar
 <!-- Dont touch  -->
 <form method="post" action="//formspree.io/coordinator@calvaryyouth.com.au">
     <div>
-	    <div><input type="text" name="name" id="name" placeholder="Name"></div>
-		<div><input type="email" name="email" id="email" placeholder="Email"></div>
-		<div><textarea name="message" id="message" placeholder="Message" rows="4"></textarea></div>
 		<div>
-			<ul class="actions">
-				<li><input type="submit" value="Send" class="special"></li>
-            </ul>
+	    	<span><input type="text" name="name" id="name" placeholder="Name"></span>
+			<span><input type="email" name="email" id="email" placeholder="Email"></span>
 		</div>
+		<div><textarea name="message" id="message" placeholder="Message" rows="4"></textarea></div>
+		<div><input type="submit" value="Send"></div>
 	</div>
 </form>
      
-[Download Referral Form](/assets/referral_form.doc) Then email to coordinator@calvaryyouth.com.au
+[Download Referral Form](/assets/referral_form_2022.doc) Then email to coordinator@calvaryyouth.com.au
 
 ### About Us
 
@@ -81,24 +81,7 @@ The pathway ultimately leads towards the sun and a horizon of hope, possibility 
 THIS IS YOUR LIFE  – We will not override your decisions but assist you, as and when it is necessary to access the varying options that may be available to assist you in your situation. Our aim is to create an environment which will help empower you to take responsibility for yourself and to support you to develop skills and a lifestyle to cope and succeed in the wider community.
 
 ### Useful Contacts
-> <span class="contact_title">Crisis Care</span>  
-> Tel: (08) 9223 1111
-> Tel: 1800 199 008  
-> 24 Hours  
-
-> Homeless Hot Line  
-> Tel: (08) 9223 1111  
-> Tel: 1800 065 892  
-> 24 Hours  
-
-> Department of Child Protection and Family Support  
-> Tel: 13 62 40  
-> Tel: (08) 9535 6688  
-> Centrelink  
-> Sutton St & Tuckey St, Mandurah WA 6210  
-> Mon - Fri; 8:30am - 5pm
-
-> ![Peel Youth Services](www.peelyouthservices.com.au)  
+> [Peel Youth Services](www.peelyouthservices.com.au)  
 > Tel: (08) 9581 3365  
 > Lot 41 (432) Lakes Road East Greenfields 6210  
 > Mon - Fri; 9am - 5pm
@@ -139,18 +122,35 @@ THIS IS YOUR LIFE  – We will not override your decisions but assist you, as an
 > Emergency Relief; 23 Davey St Mandurah 6210  
 > Mon - Fri; 9.45am-1:00pm
 
-> Homeless Advisory Service  
+> <span class="contact_title">Crisis Care</span>  
+> Tel: (08) 9223 1111
+> Tel: 1800 199 008  
+> 24 Hours  
+
+> <span class="contact_title">Homeless Hot Line</span>   
+> Tel: (08) 9223 1111  
+> Tel: 1800 065 892  
+> 24 Hours  
+
+> <span class="contact_title">Department of Child Protection and Family Support</span>   
+> Tel: 13 62 40  
+> Tel: (08) 9535 6688  
+> Centrelink  
+> Sutton St & Tuckey St, Mandurah WA 6210  
+> Mon - Fri; 8:30am - 5pm
+
+> <span class="contact_title">Homeless Advisory Service</span>   
 > Tel: 1800 065 892  
 
-> Halo Team Inc. Transitional Accomodation  
+> <span class="contact_title">Halo Team Inc. Transitional Accomodation</span>   
 > Tel: 0433 582 707  
 
-> Child Protection and Family Support  
+> <span class="contact_title">Child Protection and Family Support</span>   
 > Tel: (08) 9583 6688  
-> Cnr Sutton and Tuckey Street Mandurah 6210  
+> Cnr Sutton and Tuckey Street Mandurah 6210</span>   
 > Mon - Fri; 8:30am-5pm
 
-> Entry Point  
+> <span class="contact_title">Entry Point</span>   
 > Tel: 1800 124 684  
 
 ### Thanks

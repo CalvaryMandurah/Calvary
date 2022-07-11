@@ -1,29 +1,46 @@
-body{
-    background-color:rgb(215, 197, 173)
+:root{
+    --background_color: rgb(215, 197, 173);
+    --link_color: rgb(162, 150, 133);
+    --link_color_hover: rgb(182, 178, 172);
+
 }
 
+/* removing formatting done by github*/
 h1{
     display: none;
-}
-
-p {
-    color:black;
 }
 
 .my-5{
     margin-top:0;
 }
 
+
+/* my styling */
+body{
+    background-color: var(--background_color);
+} 
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.quoteblock > :first-child {
+    color: yellow;
+  }
+
 a {
-    color:blue;
+    color:var(--link_color);
     text-decoration: underline;
 }
 a:hover{
-    color:rgb(0, 106, 255)
+    color:var(--link_color_hover);
 }
 
 .contact_title{
-    Color: rgb(255, 0, 217);
+    Color: var(--link_color);
 }
 
 iframe{
