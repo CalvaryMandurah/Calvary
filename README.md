@@ -2,23 +2,16 @@
 ### A New Beginning
 <link rel="stylesheet" href="style.css"><!-- Don't Touch this line-->
 
-Calvary Youth Services provides crisis accommodation for 15-25 year old's who are homeless or at risk of homelessness. We are open 24 hours a day, 7 days per week. We provide a Case Management Program which includes Living Skills development. We have a Transitional Housing Program also with medium term accommodation in the Mandurah area.
-
-{% capture p1 %}{% include test.md %}{% endcapture %}
+{% capture p1 %}{% include topPG.md %}{% endcapture %}
 {{ p1 | markdownify }}
 
-<div class="flex-container">
-### Contact Us
-* Tel: 08 9581 1741
-* Mobile: 0419 909 178
-* Email: coordinator@calvaryyouth.com.au
-* 40 Sutton Street, Mandurah W.A. 6210 
+{% capture p1 %}{% include contactus.md %}{% endcapture %}
+{{ p1 | markdownify }}
 
 <!-- Dont touch from here -->
 <iframe frameborder="0" 
 	src="https://www.google.com/maps/embed/v1/place?q=calvary+youth+services+mandurah&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8">
 </iframe>
-</div>
 <!-- To here -->
 
 <!-- <div class="gmap_canvas">
