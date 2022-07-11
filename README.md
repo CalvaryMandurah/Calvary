@@ -1,19 +1,26 @@
 ## Calvary Youth Services Mandurah
 ### A New Beginning
-<link rel="stylesheet" href="style.css"><!-- Don't Touch -->
+<link rel="stylesheet" href="style.css"><!-- Don't Touch this line-->
 
 Calvary Youth Services provides crisis accommodation for 15-25 year old's who are homeless or at risk of homelessness. We are open 24 hours a day, 7 days per week. We provide a Case Management Program which includes Living Skills development. We have a Transitional Housing Program also with medium term accommodation in the Mandurah area.
 
 ### Contact Us
-* Phone: 08 9581 1741
-* Email: coordinator@calvaryyouth.com.au
+* Tel: 08 9581 1741
 * Mobile: 0419 909 178
+* Email: coordinator@calvaryyouth.com.au
 * 40 Sutton Street, Mandurah W.A. 6210 
-<div class="gmap_canvas">
+
+<!-- Dont touch from here -->
+<iframe frameborder="0" 
+	src="https://www.google.com/maps/embed/v1/place?q=calvary+youth+services+mandurah&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8">
+</iframe>
+<!-- To here -->
+
+<!-- <div class="gmap_canvas">
     <iframe width="50%" height="40%" id="gmap_canvas" src="https://maps.google.com/maps?q=40%20Sutton%20Street,%20Mandurah%20W.A.%206210&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
     <br>
     <style>.gmap_canvas {overflow:hidden;background:none!important;}</style>
-</div>
+</div> -->
 
 #### Fill In The Form or Call 08 9581 1741
 <!-- Dont touch  -->
@@ -75,7 +82,7 @@ THIS IS YOUR LIFE  – We will not override your decisions but assist you, as an
 
 ### Useful Contacts
 > <span class="contact_title">Crisis Care</span>  
-> Tel: (08) 9223 1111  
+> Tel: (08) 9223 1111
 > Tel: 1800 199 008  
 > 24 Hours  
 
@@ -91,7 +98,7 @@ THIS IS YOUR LIFE  – We will not override your decisions but assist you, as an
 > Sutton St & Tuckey St, Mandurah WA 6210  
 > Mon - Fri; 8:30am - 5pm
 
-> [Peel Youth Services](www.peelyouthservices.com.au)  
+> ![Peel Youth Services](www.peelyouthservices.com.au)  
 > Tel: (08) 9581 3365  
 > Lot 41 (432) Lakes Road East Greenfields 6210  
 > Mon - Fri; 9am - 5pm
