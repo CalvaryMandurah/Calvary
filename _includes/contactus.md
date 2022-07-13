@@ -4,4 +4,4 @@
 * Email: coordinator@calvaryyouth.com.au
 * 40 Sutton Street, Mandurah W.A. 6210 
 
-[Download Referral Form](assets/referral_form_2022.doc)
+[Download Referral Form](assets/referral_form_2022.doc) and email it to us, call us on 08 9581 1741, or submit the form on the right
