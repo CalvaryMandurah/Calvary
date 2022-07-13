@@ -44,7 +44,7 @@
     {{ p1 | markdownify }}
 </div>
 
-<div class="usefulcontacts flex-container">
+<div class="usefulcontacts">
     {% capture p1 %}{% include usefulcontacts.md %}{% endcapture %}
     {{ p1 | markdownify }}
 </div>
