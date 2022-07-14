@@ -11,12 +11,12 @@ h1{
 
 .markdown-body{
     margin-top:0;
-    background-color: rgb(255, 211, 153);
+    background-color: var(--background_color);
 }
 
 
 body{
-    background-color: var(--background_color);
+    background-image: url("https://github.com/ahaybale/Calvary/blob/main/assets/calvary_logo.jpg?raw=true");
 } 
 
 .flex-container {
