@@ -26,3 +26,6 @@ The logo also includes the wave which is a feature of the Peel region and also s
 The pathway ultimately leads towards the sun and a horizon of hope, possibility and success
 
 ![Calvary Logo](/assets/calvary_logo.jpg)
+![Calvary Logo](calvary_logo.jpg)
+![Calvary Logo](/calvary_logo.jpg)
+![Calvary Logo](_includes/assets/calvary_logo.jpg)
