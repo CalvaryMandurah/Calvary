@@ -35,7 +35,7 @@
         {{ p1 | markdownify }}
     </div>
     <div style="width:50%">
-        <h3>Application Form</h3>
+        <h3>Application Form </h3>
         <form   action="https://formspree.io/f/mzbolqka" method="POST">
             <label>Name<input type="Name" name="Name"></label>
             <label>Email<input type="email" name="email"></label>
