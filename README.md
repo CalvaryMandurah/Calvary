@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="style.css">
+<script src="script.js"></script>
 <title>Calvary Youth Services</title>
 
 <h2>Calvary Youth Services</h2>
