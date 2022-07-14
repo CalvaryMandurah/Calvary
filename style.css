@@ -11,15 +11,17 @@ h1{
 }
 
 .markdown-body{
-    margin-top:100%;
     background-color: var(--background_color);
+    position: fixed;
+    left: 50%;
+    transform: translate(-50%, 0);
 }
-
-
 
 body{
     background-image: url("https://github.com/ahaybale/Calvary/blob/main/assets/calvary_home_front.jpg?raw=true");
     background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 
 } 
 
