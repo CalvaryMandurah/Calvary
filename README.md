@@ -2,7 +2,7 @@
 <script src="script.js"></script>
 <title>Calvary Youth Services</title>
 
-<h2 style="left:50%; transform:translate(-50%, -25ch); color:white;">Calvary Youth Services</h2>
+<h2 style="left:50%; transform:translate(0%, -25ch); color:white;">Calvary Youth Services</h2>
 <h3 style="left:50%; transform:translate(0%, -25ch); color:white;">A New Beginning</h3>
 <h2>Scroll down for more<h2>
 <!-- <div class="slideshow">
@@ -36,7 +36,7 @@
     </div>
     <div style="width:50%">
         <h3>Application Form</h3>
-        <form action="https://formspree.io/f/xknylaqe" method="POST">
+        <form   action="https://formspree.io/f/mzbolqka" method="POST">
             <label>Name<input type="Name" name="Name"></label>
             <label>Email<input type="email" name="email"></label>
             <label>Message<textarea name="message" placeholder="text here"></textarea></label>
