@@ -8,14 +8,22 @@
     <div class="slide">
         <div class="numbertext">1 / 3</div>
         <img src="https://github.com/ahaybale/Calvary/blob/main/assets/calvary_home_front.jpg?raw=true">
-        <div class="text">Caption Text</div>
+        <div class="text">The entrance to Calvary home</div>
     </div>
     <div class="slide">
         <div class="numbertext">2 / 3</div>
-        <img src="https://github.com/ahaybale/Calvary/blob/main/assets/calvary_logo.jpg?raw=true">
+        <img src="https://github.com/ahaybale/Calvary/blob/main/assets/calvary_home_front.jpg?raw=true">
         <div class="text">Caption Text</div>
     </div>
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+  <div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
 </div>
+</div>
+
 <div class="toppg">
     {% capture p1 %}{% include topPG.md %}{% endcapture %}
     {{ p1 | markdownify }}
@@ -26,7 +34,7 @@
     {{ p1 | markdownify }}
     </div>
     <div>
-        <h2> </h2>
+        <h3>Application Form</h3>
         <form method="post" action="//formspree.io/coordinator@calvaryyouth.com.au">
                 <div>
                     <span><input type="text" name="name" id="name" placeholder="Name"></span>
