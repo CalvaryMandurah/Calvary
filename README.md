@@ -1,19 +1,25 @@
 <link rel="stylesheet" href="style.css">
 <title>Calvary Youth Services</title>
 
+<h2>Calvary Youth Services</h2>
+<h3>A New Beginning</h3>
+
 <div class="slideshow">
-    <h2>Calvary Youth Services</h2>
-    <h3>A New Beginning</h3>
+    <div class="slide">
+        <div class="numbertext">1 / 3</div>
+        <img src="https://github.com/ahaybale/Calvary/blob/main/assets/calvary_home_front.jpg?raw=true">
+        <div class="text">Caption Text</div>
+    </div>
+    <div class="slide">
+        <div class="numbertext">2 / 3</div>
+        <img src="https://github.com/ahaybale/Calvary/blob/main/assets/calvary_logo.jpg?raw=true">
+        <div class="text">Caption Text</div>
+    </div>
+</div>
+<div class="toppg">
     {% capture p1 %}{% include topPG.md %}{% endcapture %}
     {{ p1 | markdownify }}
-    <img src="https://github.com/ahaybale/Calvary/blob/main/assets/calvary_home_front.jpg?raw=true">
-
-
-![Calvary Logo](https://github.com/ahaybale/Calvary/blob/main/assets/calvary_home_front.jpg?raw=true)
-![Calvary Logo](calvary_logo.jpg)
-![Calvary Logo](/calvary_logo.jpg)
-![Calvary Logo](_includes/assets/calvary_logo.jpg)</div>
-
+</div>
 <div class="contactus flex-container">
     <div>
     {% capture p1 %}{% include contactus.md %}{% endcapture %}
