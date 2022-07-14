@@ -2,9 +2,9 @@
 <script src="script.js"></script>
 <title>Calvary Youth Services</title>
 
-<h2 style="transform:translate(0%, -25ch); color:white;">Calvary Youth Services Mandurah</h2>
-<h3 style="transform:translate(0%, -30ch); color:white;">A New Beginning</h3>
-<h2 style="transform:translate(0%, -25ch);">Scroll down for more</h2>
+<h2 class="title">Calvary Youth Services Mandurah</h2>
+<h3 class="title">A New Beginning</h3>
+<div class="scroller">Scroll down for more</div>
 
 <div class="toppg">
     {% capture p1 %}{% include topPG.md %}{% endcapture %}
