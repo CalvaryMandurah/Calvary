@@ -36,14 +36,11 @@
     </div>
     <div>
         <h3>Application Form</h3>
-        <form method="post" action="//formspree.io/coordinator@calvaryyouth.com.au">
-            <div>
-                <span><input type="text" name="name" id="name" placeholder="Name"></span>
-                <span><input type="email" name="email" id="email" placeholder="Email"></span>
-            </div>
-            <div><textarea name="message" id="message" placeholder="Message"
-                    rows="4">What to include in the message</textarea></div>
-            <div><input type="submit" value="Send"></div>
+        <form action="https://formspree.io/f/xknylaqe" method="POST">
+            <label>Name<input type="Name" name="Name"></label>
+            <label>Email<input type="email" name="email"></label>
+            <label>Message<textarea name="message"></textarea></label>
+            <button type="submit">Send</button>
         </form>
     </div>
 </div>
