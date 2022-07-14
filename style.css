@@ -1,11 +1,10 @@
-:root{
+/* :root{
     --background_color: rgb(255, 225, 186);
     --link_color: rgb(132, 132, 132);
     --link_color_hover: rgb(164, 164, 164);
 
 }
 
-/* removing formatting done by github*/
 h1{
     display: none;
 }
@@ -16,7 +15,6 @@ h1{
 }
 
 
-/* my styling */
 body{
     background-color: var(--background_color);
 } 
@@ -54,4 +52,4 @@ iframe{
     height:30%;
     width:100%;
     border:0;
-}
+} */
