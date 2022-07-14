@@ -2,28 +2,9 @@
 <script src="script.js"></script>
 <title>Calvary Youth Services</title>
 
-<h2 style="left:50%; transform:translate(0%, -25ch); color:white;">Calvary Youth Services</h2>
-<h3 style="left:50%; transform:translate(0%, -25ch); color:white;">A New Beginning</h3>
-<h2>Scroll down for more<h2>
-<!-- <div class="slideshow">
-    <div class="slide">
-        <div class="numbertext">1 / 3</div>
-        <img src="https://github.com/ahaybale/Calvary/blob/main/assets/calvary_home_front.jpg?raw=true">
-        <div class="text">The entrance to Calvary home</div>
-    </div>
-    <div class="slide">
-        <div class="numbertext">2 / 3</div>
-        <img src="https://github.com/ahaybale/Calvary/blob/main/assets/calvary_home_front.jpg?raw=true">
-        <div class="text">Caption Text</div>
-    </div>
-    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-    <a class="next" onclick="plusSlides(1)">&#10095;</a>
-    <div style="text-align:center">
-        <span class="dot" onclick="currentSlide(1)"></span>
-        <span class="dot" onclick="currentSlide(2)"></span>
-        <span class="dot" onclick="currentSlide(3)"></span>
-    </div>
-</div> -->
+<h2 style="transform:translate(0%, -25ch); color:white;">Calvary Youth Services Mandurah</h2>
+<h3 style="transform:translate(0%, -30ch); color:white;">A New Beginning</h3>
+<h2 style="transform:translate(0%, -25ch);">Scroll down for more</h2>
 
 <div class="toppg">
     {% capture p1 %}{% include topPG.md %}{% endcapture %}

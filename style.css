@@ -1,142 +1,154 @@
-:root{
-    --background_color: rgb(255, 225, 186);
-    --link_color: rgb(132, 132, 132);
-    --link_color_hover: rgb(164, 164, 164);
+:root {
+  --background_color: rgb(255, 225, 186);
+  --background_color_body: rgb(253, 216, 168);
+  --link_color: rgb(132, 132, 132);
+  --link_color_hover: rgb(164, 164, 164);
 
 }
 
-h1{
-    display: none;
-    
+h1 {
+  display: none;
+
 }
 
-.markdown-body{
-    background-color: var(--background_color);
+.markdown-body {
+  background-color: var(--background_color_body);
 }
 
-body{
-    background-image: url("https://github.com/ahaybale/Calvary/blob/main/assets/calvary_home_front.jpg?raw=true");
-    background-repeat: no-repeat;
-    background-size: 100%;
+body {
+  background-image: url("https://github.com/ahaybale/Calvary/blob/main/assets/calvary_home_front.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-color: var(--background_color);
 
-} 
+}
 
 .flex-container {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
 
 }
 
-.my-5{
-    margin-top: 45% !important;
+.my-5 {
+  margin-top: 50% !important;
 }
 
 .slideshow {
-    max-width: 1000px;
-    position: relative;
-    margin: auto;
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.slide {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active,
+.dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.slide {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes slide {
+  from {
+    opacity: .4
   }
 
-  /* Hide the images by default */
-.slide {
-    display: none;
+  to {
+    opacity: 1
   }
-  
-  /* Next & previous buttons */
-  .prev, .next {
-    cursor: pointer;
-    position: absolute;
-    top: 50%;
-    width: auto;
-    margin-top: -22px;
-    padding: 16px;
-    color: white;
-    font-weight: bold;
-    font-size: 18px;
-    transition: 0.6s ease;
-    border-radius: 0 3px 3px 0;
-    user-select: none;
-  }
-  
-  /* Position the "next button" to the right */
-  .next {
-    right: 0;
-    border-radius: 3px 0 0 3px;
-  }
-  
-  /* On hover, add a black background color with a little bit see-through */
-  .prev:hover, .next:hover {
-    background-color: rgba(0,0,0,0.8);
-  }
-  
-  /* Caption text */
-  .text {
-    color: #f2f2f2;
-    font-size: 15px;
-    padding: 8px 12px;
-    position: absolute;
-    bottom: 8px;
-    width: 100%;
-    text-align: center;
-  }
-  
-  /* Number text (1/3 etc) */
-  .numbertext {
-    color: #f2f2f2;
-    font-size: 12px;
-    padding: 8px 12px;
-    position: absolute;
-    top: 0;
-  }
-  
-  /* The dots/bullets/indicators */
-  .dot {
-    cursor: pointer;
-    height: 15px;
-    width: 15px;
-    margin: 0 2px;
-    background-color: #bbb;
-    border-radius: 50%;
-    display: inline-block;
-    transition: background-color 0.6s ease;
-  }
-  
-  .active, .dot:hover {
-    background-color: #717171;
-  }
-  
-  /* Fading animation */
-  .slide {
-    animation-name: fade;
-    animation-duration: 1.5s;
-  }
-  
-  @keyframes slide {
-    from {opacity: .4}
-    to {opacity: 1}
-  }
+}
 
 a {
-    color:var(--link_color);
-    text-decoration: underline;
-}
-a:hover{
-    color:var(--link_color_hover);
+  color: var(--link_color);
+  text-decoration: underline;
 }
 
-.contact_title{
-    Color: var(--link_color);
+a:hover {
+  color: var(--link_color_hover);
 }
 
-input, textarea{
-    width:100%;
+.contact_title {
+  Color: var(--link_color);
 }
 
-iframe{
-    border-top: 10px;
-    height:30%;
-    width:100%;
-    border:0;
+input,
+textarea {
+  width: 100%;
+}
+
+iframe {
+  border-top: 10px;
+  height: 30%;
+  width: 100%;
+  border: 0;
 }
