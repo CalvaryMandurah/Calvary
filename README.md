@@ -34,12 +34,12 @@
         {% capture p1 %}{% include contactus.md %}{% endcapture %}
         {{ p1 | markdownify }}
     </div>
-    <div>
+    <div style="width:50%">
         <h3>Application Form</h3>
         <form action="https://formspree.io/f/xknylaqe" method="POST">
             <label>Name<input type="Name" name="Name"></label>
             <label>Email<input type="email" name="email"></label>
-            <label>Message<textarea name="message"></textarea></label>
+            <label>Message<textarea name="message" placeholder="text here"></textarea></label>
             <button type="submit">Send</button>
         </form>
     </div>
@@ -51,7 +51,7 @@
 <div class="aboutus">
     {% capture p1 %}{% include aboutus.md %}{% endcapture %}
     {{ p1 | markdownify }}
-    <img src="https://github.com/ahaybale/Calvary/blob/main/assets/calvary_logo.jpg?raw=true" style="position:relative; top: 4ch;">
+    <img src="https://github.com/ahaybale/Calvary/blob/main/assets/calvary_logo.jpg?raw=true">
 
 </div>
 
