@@ -6,8 +6,10 @@
     <h3>A New Beginning</h3>
     {% capture p1 %}{% include topPG.md %}{% endcapture %}
     {{ p1 | markdownify }}
-    ![background image](/assets/calvary_home_front.jpg)
-</div>
+![Calvary Logo](/assets/calvary_logo.jpg)
+![Calvary Logo](calvary_logo.jpg)
+![Calvary Logo](/calvary_logo.jpg)
+![Calvary Logo](_includes/assets/calvary_logo.jpg)</div>
 
 <div class="contactus flex-container">
     <div>
