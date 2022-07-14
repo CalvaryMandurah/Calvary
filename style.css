@@ -6,8 +6,11 @@
 
 }
 
-.title{
-  transform:translate(0%, -25ch);
+.toptitle{
+  position:fixed;
+  transform: translate(-50%, -180%);
+  color: white;
+  left: 50%;
 }
 
 .scroller{

@@ -1,9 +1,8 @@
 <link rel="stylesheet" href="style.css">
 <script src="script.js"></script>
-<title>Calvary Youth Services</title>
 
-<h2 class="title">Calvary Youth Services Mandurah</h2>
-<h3 class="title">A New Beginning</h3>
+<h2 class="toptitle">Calvary Youth Services Mandurah</h2>
+<h3 class="toptitle">A New Beginning</h3>
 <div class="scroller">Scroll down for more</div>
 
 <div class="toppg">
