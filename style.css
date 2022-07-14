@@ -29,6 +29,10 @@ body{
 
 }
 
+.my-5{
+    margin-top: 45%;
+}
+
 .slideshow {
     max-width: 1000px;
     position: relative;

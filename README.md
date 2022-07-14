@@ -2,9 +2,9 @@
 <script src="script.js"></script>
 <title>Calvary Youth Services</title>
 
-<h2>Calvary Youth Services</h2>
-<h3>A New Beginning</h3>
-<div height="100%"> scroll down for more<div>
+<h2 style="left:50%; transform:translate(-50%, -25ch); color:white;">Calvary Youth Services</h2>
+<h3 style="left:50%; transform:translate(0%, -25ch); color:white;">A New Beginning</h3>
+<h2>Scroll down for more<h2>
 <!-- <div class="slideshow">
     <div class="slide">
         <div class="numbertext">1 / 3</div>
@@ -51,7 +51,7 @@
 <div class="aboutus">
     {% capture p1 %}{% include aboutus.md %}{% endcapture %}
     {{ p1 | markdownify }}
-    <img src="https://github.com/ahaybale/Calvary/blob/main/assets/calvary_logo.jpg?raw=true">
+    <img src="https://github.com/ahaybale/Calvary/blob/main/assets/calvary_logo.jpg?raw=true" style="transform(-5ch,0px)">
 
 </div>
 
