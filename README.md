@@ -6,6 +6,9 @@
     <h3>A New Beginning</h3>
     {% capture p1 %}{% include topPG.md %}{% endcapture %}
     {{ p1 | markdownify }}
+    <img src="https://github.com/ahaybale/Calvary/blob/main/assets/calvary_home_front.jpg?raw=true">
+
+
 ![Calvary Logo](https://github.com/ahaybale/Calvary/blob/main/assets/calvary_home_front.jpg?raw=true)
 ![Calvary Logo](calvary_logo.jpg)
 ![Calvary Logo](/calvary_logo.jpg)
