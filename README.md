@@ -6,6 +6,10 @@
     {% capture p1 %}{% include topPG.md %}{% endcapture %}
     {{ p1 | markdownify }}
 </div>
+<div class="whatsnew">
+    {% capture p1 %}{% include topPG.md %}{% endcapture %}
+    {{ p1 | markdownify }}
+</div>
 <div class="contactus flex-container">
     <div>
         {% capture p1 %}{% include contactus.md %}{% endcapture %}
