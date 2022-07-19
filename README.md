@@ -7,7 +7,7 @@
     {{ p1 | markdownify }}
 </div>
 <div class="whatsnew">
-    {% capture p1 %}{% include topPG.md %}{% endcapture %}
+    {% capture p1 %}{% include whatsnew.md %}{% endcapture %}
     {{ p1 | markdownify }}
 </div>
 <div class="contactus flex-container">
