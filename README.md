@@ -32,7 +32,7 @@
 <div class="aboutus">
     {% capture p1 %}{% include aboutus.md %}{% endcapture %}
     {{ p1 | markdownify }}
-    <img src="https://github.com/ahaybale/Calvary/blob/main/assets/calvary_logo.jpg?raw=true" style="transform(-5ch,0px)">
+    <img src="https://github.com/Calvary/Calvary/blob/main/assets/calvary_logo.jpg?raw=true">
 
 </div>
 
