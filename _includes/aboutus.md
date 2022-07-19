@@ -22,5 +22,6 @@ To follow in the leadership of Jesus Christ as an example of love, mercy, compas
 #### Our Logo
 The Calvary logo was created by an indigenous client who was residing in the crisis centre at the time. The logo symbolises the journey a young person may experience when they encounter our accommodation program.
 The sun offers warmth and hope as the pathway tells of the good times and challenges facing young people seeking to break free from their crisis issue.
-The logo also includes the wave which is a feature of the Peel region and also symbolises the often difficult challenges of riding the wave safely to shore. The pathway ultimately leads towards the sun and a horizon of hope, possibility and success
+The logo also includes the wave which is a feature of the Peel region and also symbolises the often difficult challenges of riding the wave safely to shore. The pathway ultimately leads towards the sun and a horizon of hope, possibility and success  
+
 ![our logo](https://github.com/CalvaryMandurah/Calvary/raw/main/assets/calvary_logo.jpg?raw=true)
