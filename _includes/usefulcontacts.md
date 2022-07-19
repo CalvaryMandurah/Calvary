@@ -1,12 +1,12 @@
 ### Useful Contacts
-> Peel Youth Services
+> Peel Youth Services. 
 > www.peelyouthservices.com.au  
 > Tel: (08) 9581 3365  
 > Lot 41 (432) Lakes Road East Greenfields 6210  
 > Mon - Fri; 9am - 5pm
 
-> Peel Youth Medical Services 
-> www.gpdownsouth.com.au)  
+> Peel Youth Medical Services  
+> www.gpdownsouth.com.au  
 > Tel: (08) 9583 5435  
 > Billy Dower Youth Centre, 41 Dower Street Mandurah 6210  
 > Mon - Fri; 8:30am - 4:30pm
