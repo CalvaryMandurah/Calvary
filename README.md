@@ -32,8 +32,6 @@
 <div class="aboutus">
     {% capture p1 %}{% include aboutus.md %}{% endcapture %}
     {{ p1 | markdownify }}
-    <img src="https://github.com/CalvaryMandurah/Calvary/blob/main/assets/calvary_logo.jpg?raw=true">
-
 </div>
 
 <div class="programs">
